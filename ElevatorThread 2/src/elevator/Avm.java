@@ -82,7 +82,7 @@ public class Avm {
         System.out.println("Tüm katlardaki toplam kuyruk:" +toplam);
 
         return toplam;
-    } //tüm kuyruklardaki toplam insan sayısını buluyor
+    } //tüm kuyruklardaki toplam insan sayısı
 
 
     public synchronized Person kuyrukIndir(int kat){
